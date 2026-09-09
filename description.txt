@@ -1,0 +1,9 @@
+GithubActions-CI-CD-NASA-project
+Status: Active | Visibility: Public | Language: HTML
+Description: A CI/CD automated testing pipeline project integrated with NASA APIs. Demonstrates implementation of continuous integration workflows using GitHub Actions for automated API testing and quality validation.
+
+Key Folders:
+
+.github/ - GitHub Actions workflow configurations (CI/CD automation scripts)
+postman/ - Postman API test collections for NASA API testing
+reports/ - Automated test execution reports and results
