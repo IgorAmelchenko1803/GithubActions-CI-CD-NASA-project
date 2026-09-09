@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Nasa" tests="1" time="2.644">
-  <testsuite name="Apod Api" id="75e3fc2b-29ac-42d6-8f1a-d4d04f9b4837" timestamp="2026-08-07T05:46:21.620Z" tests="2" failures="1" errors="0" time="2.644">
-    <testcase name="Response time is less than 1200ms" time="2.644" classname="ApodApi">
-      <failure type="AssertionFailure" message="expected 2644 to be below 1200">
+<testsuites name="Nasa" tests="1" time="2.541">
+  <testsuite name="Apod Api" id="478e7c90-6f32-4fdf-9251-77584c7e7ee0" timestamp="2026-09-09T08:46:55.127Z" tests="2" failures="1" errors="0" time="2.541">
+    <testcase name="Response time is less than 1200ms" time="2.541" classname="ApodApi">
+      <failure type="AssertionFailure" message="expected 2541 to be below 1200">
         <![CDATA[Failed 1 times.]]>
         <![CDATA[Collection JSON ID: 5f80d83f-cf86-45ff-8fab-5827d5682d52.]]>
         <![CDATA[Collection name: Nasa.]]>
         <![CDATA[Request name: Apod Api.]]>
         <![CDATA[Test description: Response time is less than 1200ms.]]>
-        <![CDATA[Error message: expected 2644 to be below 1200.]]>
-        <![CDATA[Stacktrace: AssertionError: expected 2644 to be below 1200
+        <![CDATA[Error message: expected 2541 to be below 1200.]]>
+        <![CDATA[Stacktrace: AssertionError: expected 2541 to be below 1200
    at Object.eval sandbox-script.js:1:1).]]>
       </failure>
     </testcase>
-    <testcase name="Status code is 200" time="2.644" classname="ApodApi"/>
+    <testcase name="Status code is 200" time="2.541" classname="ApodApi"/>
   </testsuite>
 </testsuites>
